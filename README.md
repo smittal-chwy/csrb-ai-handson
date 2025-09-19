@@ -9,7 +9,6 @@ This repo is structured as progressive Jupyter notebooks.
 - `01_hf_llm_basics.ipynb` → Connect to Hugging Face models.
 - `02_openai_models.ipynb` → Use OpenAI GPT models.
 - `03_rag_with_chroma.ipynb` → Build a small Retrieval-Augmented Generation system.
-- `04_mcp_server_demo.ipynb` → Expose tools using Model Context Protocol.
 
 ---
 
