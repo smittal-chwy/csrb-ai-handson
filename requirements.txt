@@ -1,0 +1,10 @@
+transformers
+torch
+accelerate
+openai
+chromadb
+ipykernel
+jupyter
+python-dotenv
+fastapi
+uvicorn
