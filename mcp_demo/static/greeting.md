@@ -1,0 +1,1 @@
+# Welcome to the Chewy MCP Demo!\n\nThis is a sample resource.
